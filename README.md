@@ -32,7 +32,8 @@ Android Botnet "Hook" 2023 Panel functionality:
 • Reading Gmail
 • Get admin rights
 • Take a screenshot
-• Clear app cache/memory
+• Clear app cache/memory![Hook](https://user-images.githubusercontent.com/85311985/236163500-8f706b33-370a-4ba8-8039-4c3cefc3e3ee.png)
+
 • Remove the SEED phrases (8 wallets)
 • Turn off PlayProtect
 • Keylogger
