@@ -23,7 +23,7 @@ Android Botnet "Hook" 2023 Panel functionality:
 • Call Forwarding
 • Send push
 • Get Accounts
-• List of installed apps
+• List of installed apps 
 • SMS list
 • Open the injection
 • Update the list of injections
