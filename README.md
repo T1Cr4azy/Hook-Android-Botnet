@@ -40,7 +40,7 @@ Android Botnet "Hook" 2023 Panel functionality:
 • Turn off the sound
 • Read push
 • Clear push
-• Lock the device
+• Lock the device 
 
 and much more....
 Price : PM-T1Crazy
