@@ -1,4 +1,5 @@
 # Hook-Android-Botnet
+https://vimeo.com/801950375?share=copy
 Android Botnet "Hook" 2023 Panel functionality:
 • Filtering/Searching
 • Privilege control
@@ -45,5 +46,4 @@ Android Botnet "Hook" 2023 Panel functionality:
 • Lock the device 
 
 and much more....
-Price : PM-T1Crazy
-https://vimeo.com/801950375?share=copy
+Price : PM-T1Crazy -- https://t.me/T1Crazy
